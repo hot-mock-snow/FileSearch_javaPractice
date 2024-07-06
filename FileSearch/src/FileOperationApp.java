@@ -17,7 +17,7 @@ public class FileOperationApp {
     	
     	// ファイルを検索するディレクトリを指定　↓元の表記
     	//String directoryPath = "/path/to/search/directory";
-    	String directoryPath = "/C:/Users/美稀/Documents/shita";
+    	String directoryPath = "/C:/Users/UserName/Documents/folderName";
     	String searchKeyword = " ";
     	String fileTitle = " ";
     	
